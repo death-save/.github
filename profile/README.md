@@ -11,8 +11,7 @@ This means is that I will no longer officially* provide updates or support for a
 
 Specifically this means I have no plans for a Foundry VTT V11 update for any of these modules.
 
-I understand this will impact the users of my modules and I apologise for any inconvenience this 
-Causes and I welcome interested parties in the community to reach out to me if they would like to take on support and possibly ownership of these modules.
+I understand this will impact the users of my modules and I apologise for any inconvenience this causes and I welcome interested parties in the community to reach out to me if they would like to take on support and possibly ownership of these modules.
 
 With the success of the Foundry platform, the number of modules is growing every day so I feel the ecosystem is in a place where I can make this decision and not leave game masters and players completely without recourse.
 
