@@ -15,7 +15,7 @@ I understand this will impact the users of my modules and I apologise for any in
 
 With the success of the Foundry platform, the number of modules is growing every day so I feel the ecosystem is in a place where I can make this decision and not leave game masters and players completely without recourse.
 
-I will keep the [DEATH SAVE Discord](https://discord.gg/wwH7DQc) open for discussion of my modules until such a time as it is no longer needed, so feel free to post your comments via Discord (on the DEATH SAVE or [official Foundry Discord](https://discord.gg/foundryvtt)) or on the [Foundry VTT reddit](https://www.reddit.com/r/FoundryVTT/). 
+I will keep the [DEATH SAVE Discord](https://discord.gg/wwH7DQc) open for discussion of my modules until such a time as it is no longer needed, so feel free to post your comments via Discord (on the DEATH SAVE or [official Foundry Discord](https://discord.gg/foundryvtt)) or on the [Foundry VTT reddit](https://www.reddit.com/r/FoundryVTT/comments/13skl1h/thank_you_end_of_support_for_death_save/)). 
 
 Finally, if you’d like to know more about this decision please read the post script below.
 
